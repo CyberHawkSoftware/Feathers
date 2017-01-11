@@ -1,4 +1,4 @@
-//template feather
+//Feather for the kitsu.io API
 module.exports = function feather(bot, info)
 {
   "use strict";

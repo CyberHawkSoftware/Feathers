@@ -1,3 +1,4 @@
+//Feather for League of Legends API
 module.exports = function feather(bot, info)
 {
   "use strict";
